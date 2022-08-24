@@ -207,7 +207,7 @@ const twq = function () {
   }
 };
 
-twq.integration = 'gtm-base';
+twq.integration = 'gtm';
 twq.queue = [];
 // Function signiture: setInWindow(key, value, overrideExisting)
 setInWindow('twq', twq, false);
