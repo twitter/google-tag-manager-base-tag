@@ -1,6 +1,8 @@
 homepage: "https://business.twitter.com/"
 documentation: "https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html"
 versions:
+  - sha: 6685cbdbefbaa512be22c4e55b0a3dfd4703ac9b
+    changeNotes: Update access_global permissions
   - sha: 2d1cefe57fd6d4ce2dd73ba1159162ba20013056
     changeNotes: Set integration value to gtm
   - sha: e48614580e64c4b277d2490855bc1192ed45b540
